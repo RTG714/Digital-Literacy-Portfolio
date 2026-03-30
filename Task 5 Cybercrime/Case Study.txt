@@ -1,0 +1,5 @@
+Case Study on UPI / Online Payment Fraud
+
+UPI fraud is becoming increasingly common in India and is a growing form of cybercrime. In such scams, fraudsters deceive people into making payments. Typically, the scam begins when the victim receives a phone call or message from someone pretending to be a bank official, delivery agent, or online buyer. The scammer then sends a “collect request” through UPI or asks the victim to scan a QR code, falsely claiming that this step is required to receive money.
+
+Trusting the scammer, the victim enters their PIN to complete the process. However, instead of receiving money, the amount is deducted from their account. This is how the fraud is carried out. Students and individuals who are new to digital payments are especially vulnerable to such scams. This case highlights the importance of understanding how UPI transactions work. People should be aware that a PIN is only required when sending money, not when receiving it.
